@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hai there!~
+
+This is an alt profile!
+
+If you want to know more you can contact me at contact@timothysoup.dev (follow the requirements below please)
+
+### Requirements to email me
+- Subject must not be empty
+- Be clear about what you need from me from the first email
+- If you're enquiring about my past work, you must be clear of who/what you are/represent
 
 <!--
 **timothysoup/timothysoup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
